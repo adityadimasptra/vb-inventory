@@ -1,0 +1,18 @@
+D:\FILE\Project Work\Project Work\bin\Debug\Project Work.exe
+D:\FILE\Project Work\Project Work\bin\Debug\Project Work.pdb
+D:\FILE\Project Work\Project Work\bin\Debug\Project Work.xml
+D:\FILE\Project Work\Project Work\obj\Debug\ResolveAssemblyReference.cache
+D:\FILE\Project Work\Project Work\obj\Debug\Project_Work.Home.resources
+D:\FILE\Project Work\Project Work\obj\Debug\Project_Work.Resources.resources
+D:\FILE\Project Work\Project Work\obj\Debug\Project Work.vbproj.GenerateResource.Cache
+D:\FILE\Project Work\Project Work\obj\Debug\Project Work.exe
+D:\FILE\Project Work\Project Work\obj\Debug\Project Work.xml
+D:\FILE\Project Work\Project Work\obj\Debug\Project Work.pdb
+D:\FILE\Project Work\Project Work\obj\Debug\Project_Work.LoginForm.resources
+D:\FILE\Project Work\Project Work\obj\Debug\Project_Work.FormBarang.resources
+D:\FILE\Project Work\Project Work\obj\Debug\Project_Work.FormKategori.resources
+D:\FILE\Project Work\Project Work\obj\Debug\Project_Work.FormPackBarang.resources
+D:\FILE\Project Work\Project Work\obj\Debug\Project_Work.AboutBox.resources
+D:\FILE\Project Work\Project Work\obj\Debug\Project_Work.ChangeProfil.resources
+D:\FILE\Project Work\Project Work\obj\Debug\Project_Work.FormCariBarang.resources
+D:\FILE\Project Work\Project Work\obj\Debug\Project_Work.FormReport.resources

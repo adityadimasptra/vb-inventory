@@ -1,0 +1,5 @@
+D:\FILE\Project Work\Project Work\obj\Release\ResolveAssemblyReference.cache
+D:\FILE\Project Work\Project Work\obj\Release\Project_Work.Home.resources
+D:\FILE\Project Work\Project Work\obj\Release\Project_Work.LoginForm.resources
+D:\FILE\Project Work\Project Work\obj\Release\Project_Work.Resources.resources
+D:\FILE\Project Work\Project Work\obj\Release\Project Work.vbproj.GenerateResource.Cache
